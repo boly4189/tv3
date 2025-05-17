@@ -1,6 +1,6 @@
 
 {
-"spider":"https://gh-proxy.com/raw.githubusercontent.com/boly4189/tv1/refs/heads/main/jar/svip.jar",
+"spider":"https://gh-proxy.com/raw.githubusercontent.com/boly4189/tv3/refs/heads/main/jar/svip.jar",
 "sites":[
 {"key":"豆瓣","name":"豆瓣","type":3,"api":"csp_Douban","searchable":0},
 {"key":"比赛看球","name":"比赛｜看球","type":3,"api":"csp_Kanqiu","gridview":3,"style":{"type":"list"}},
@@ -16,8 +16,6 @@
 {"key":"央视新闻","name":"新闻｜央视","type":3,"api":"https://gh-proxy.com/raw.githubusercontent.com/boly4189/tv3/refs/heads/main/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"order_num":0,"ext":"https://gh-proxy.com/raw.githubusercontent.com/boly4189/tv3/refs/heads/main/js/央视新闻.js"},
 {"key":"央视少儿","name":"少儿｜央视","type":3,"api":"https://gh-proxy.com/raw.githubusercontent.com/boly4189/tv3/refs/heads/main/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"order_num":0,"ext":"https://gh-proxy.com/raw.githubusercontent.com/boly4189/tv3/refs/heads/main/js/央视少儿.js"},
 {"key":"央视综合","name":"综合｜央视","type":3,"api":"https://gh-proxy.com/raw.githubusercontent.com/boly4189/tv3/refs/heads/main/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"order_num":0,"ext":"https://gh-proxy.com/raw.githubusercontent.com/boly4189/tv3/refs/heads/main/js/央视综合.js"},
-{"key":"看球PY","name":"球球｜看球","type":3,"api":"https://gh-proxy.com/raw.githubusercontent.com/boly4189/tv1/refs/heads/masterpy/球球.py","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"playerType":2},
-{"key":"看球","name":"一起｜看球","type":3,"api":"csp_Kanqiu","jar":"https://4708.kstore.space/jar/Yoursmile.jar","searchable":0,"style":{"type":"list"}},
 {"key":"88看球","name":"88｜看球","type":3,"api":"https://gh-proxy.com/raw.githubusercontent.com/boly4189/tv3/refs/heads/main/js/drpy2.min.js","style":{"type":"list"},
 "ext":"https://gh-proxy.com/raw.githubusercontent.com/boly4189/tv3/refs/heads/main/js/88看球.js"},
 {"key":"310直播","name":"310｜看球","type":3,"api":"https://gh-proxy.com/raw.githubusercontent.com/boly4189/tv3/refs/heads/main/js/drpy2.min.js","style":{"type":"list"},
