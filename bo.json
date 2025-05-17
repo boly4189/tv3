@@ -26,7 +26,7 @@
 "ext":"https://gh-proxy.com/raw.githubusercontent.com/boly4189/tv3/refs/heads/main/js/武享吧.js"},
 {"key":"JRKAN直播","name":"JRKAN｜直播","type":3,"api":"https://gh-proxy.com/raw.githubusercontent.com/boly4189/tv3/refs/heads/main/js/drpy2.min.js","style":{"type":"list"},
 "ext":"https://gh-proxy.com/raw.githubusercontent.com/boly4189/tv3/refs/heads/main/js/JRKAN直播.js"},
-{"key":"push_agent","name":"Push｜云盘","type":3,"api":"csp_Push","searchable":0,"filterable":0,"changeable":0}}
+{"key":"push_agent","name":"Push｜云盘","type":3,"api":"csp_Push","searchable":0,"filterable":0,"changeable":0}
 ],
 "parses":[
 {"name":"极速","type":0,"url":"https://jx.2s0.cn/player/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"ext":{"header":{"user-agent":"Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36"}}}},
